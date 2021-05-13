@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gx333
+- 👋 Hi, I’m Ken @gx333
 - 👀 I’m interested in web develop/mobile develop/desktop develop
 - 🌱 I’m currently learning web develop
 - 💞️ I’m looking to collaborate on web develop
